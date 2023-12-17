@@ -1,14 +1,19 @@
-name = "Richard hanrick!"
-rol = "Flutter Developer"
-email = "richard@example.com"
-phone = "+1 (213) 352-2795"
-birthday = "June 26, 1996"
-location = "Sacramento, California, USA"
+name = "Bruno Steven Ramirez Silva"
+rol = "Comunicador Audiovisual"
+email = "brunoasteven@gmail.com"
+phone = "+51 982 713 325"
+birthday = "24 de Octubre del 2000"
+location = "Lima, Perú"
 avatar = "./config/assets/avatars/my-avatar.png"
-username = "richardhanrick" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+username = "brunoasteven" # <-- github user name
+googlemaps = "https://www.google.com/maps/@-12.0830636,-77.0101116,3a,75y,277.87h,90t/data=!3m6!1e1!3m4!1s5yqhMYg0t-ishLybeZsk_w!2e0!7i13312!8i6656?entry=ttu" 
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Hola ! Como profesional de la Comunicación Audiovisual, he tenido el privilegio de sumergirme en diversos proyectos cinematográficos que han enriquecido mi experiencia y consolidado mi amor por este arte. 
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Lo que más disfruto es trabajar codo a codo con personas apasionadas y talentosas, contribuyendo al éxito conjunto de cada proyecto. Mi enfoque es siempre proactivo y orientado al logro de objetivos, ya que creo firmemente en la importancia de la colaboración para alcanzar resultados excepcionales.
+
+Además, soy un firme creyente en el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para crecer y mejorar, explorando las últimas tendencias y tecnologías en la industria. Cada proyecto es una nueva aventura, una oportunidad para aprender y crecer, y estoy emocionado por lo que el futuro de la Comunicación Audiovisual tiene reservado para mí.
+
+¡Estoy ansioso por conectar con personas apasionadas que compartan la misma pasión por el cine y estén listas para embarcarse en emocionantes proyectos juntos!
+
 """
